@@ -6,3 +6,7 @@ The objective of this task is to predict keypoint positions on face images. Dete
 * Facial Expression Analysis
 * Medical Diagnosis
 * Biometrics
+
+## Results
+The predictions of the final model look like this <br>
+![results](./images/predictions.png)
